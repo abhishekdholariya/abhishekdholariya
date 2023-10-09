@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhishek</h1>
 <h3 align="center">Exploring</h3>
 
-- 🔭 I’m currently working on **Pursuing Master Of Computer pplications LJIET'24**
+- 🔭 I’m currently working on **Pursuing Master Of Computer Applications LJIET'24**
 
 - 🌱 I’m currently learning **Laravel**
 
