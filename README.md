@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on **Pursuing Master Of Computer Applications LJIET'24**
 
-- 🌱 I’m currently learning **Laravel**
-
 - 📫 How to reach me **abhishekdholariya2001@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
